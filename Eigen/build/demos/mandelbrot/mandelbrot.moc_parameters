@@ -1,0 +1,7 @@
+-I/home/rnm/project_GroupD/rnm_ss19d/Eigen
+-I/home/rnm/project_GroupD/rnm_ss19d/Eigen/build
+-I/usr/include/qt4
+-DNDEBUG
+-o
+/home/rnm/project_GroupD/rnm_ss19d/Eigen/build/demos/mandelbrot/mandelbrot.moc
+/home/rnm/project_GroupD/rnm_ss19d/Eigen/demos/mandelbrot/mandelbrot.h

@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/rnm/project_GroupD/rnm_ss19d/Eigen/unsupported/test/cxx11_tensor_uint128.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildUnsupported"
+		],
+		"name" : "cxx11_tensor_uint128_1"
+	}
+}
