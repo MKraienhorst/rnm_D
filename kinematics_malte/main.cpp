@@ -20,7 +20,7 @@ void forwardKinematics( float theta[6], Eigen::Matrix<float, 3, 1> &position)
   const float d4 = 0.11235;
   const float d5 = 0.08535;
   const float d6 = 0.0819;
-  */
+  */////
   // UR5
   const float d1= 0.089159;
   const float a2 = -0.425;
