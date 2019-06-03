@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558112361 source:c:\users\om\desktop\inversekin\main.cpp
+	<iostream>
+	<Eigen>
+	<cmath>
+
